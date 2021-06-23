@@ -1,0 +1,7 @@
+-------------------------------------
+Weather Status for KATTAPPANA
+-------------------------------------
+Current Temperature is     : 24.48 Degree Celsius
+Current Weather Description:overcast clouds
+Current Humidity           :67%
+Current Wind Speed         :2.34KMph
